@@ -1,0 +1,28 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.photo{
+  border-radius: 50%;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.muhammed {
+    margin-top: 100px;
+    background-color: #252d5d;
+
+}
+.muhammed .row{
+    margin-left: 32%;
+   
+}
+.muhammed .container{
+    background-color: #252d5d;
+}
+
